@@ -10,7 +10,7 @@ master and the
 `DevLab_I2C_Orchestrator` bus class into a single `DevLab_Button` object.
 Firmware: `unit_firmware_i2c_push_button_module`.
 
-Compatible with ESP32 and RP2040/RP2350.
+Compatible with ESP32, RP2040/RP2350, STM32 and AVR.
 
 # Features
 
