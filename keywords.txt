@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For DevLab_Button
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DevLab_Button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+beginRecovered	KEYWORD2
+readPressed	KEYWORD2
+update	KEYWORD2
+isPressed	KEYWORD2
+wasPressed	KEYWORD2
+wasReleased	KEYWORD2
+busReady	KEYWORD2
+isConnected	KEYWORD2
+deviceInfo	KEYWORD2
+printInfo	KEYWORD2
+protocol	KEYWORD2
+bus	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DEVICE_ID	LITERAL1
+DEFAULT_ADDRESS	LITERAL1
+S2	LITERAL1
